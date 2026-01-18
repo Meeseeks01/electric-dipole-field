@@ -19,6 +19,24 @@ using stream plots for intuitive interpretation.
 - Explicit visualization of positive and negative charges
 - Correctly defined spatial domain and aspect ratio
 
+### Electric Dipole
+
+<img src="https://github.com/user-attachments/assets/47cfac6b-9ad7-4a73-8fc9-f76ef9bcf1fd" alt="Electric dipole electric field visualization" width="450">
+
+- Two point charges of equal magnitude and opposite sign  
+- Field lines originate at the positive charge and terminate at the negative charge  
+- Characteristic dipole symmetry is preserved
+
+---
+
+### Four-Charge Configuration
+
+<img src="https://github.com/user-attachments/assets/dbc676dc-e141-4aae-989f-076c2c4272a1" alt="Four-charge electric field visualization" width="450">
+
+- Four point charges arranged symmetrically with alternating signs  
+- Quadrupole-like electric field structure  
+- Clear regions of field cancellation and enhanced curvature
+
 ## Planned features
 
 - Improved documentation and code clarity
